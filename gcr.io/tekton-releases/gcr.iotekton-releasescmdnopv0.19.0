@@ -1,1 +1,1 @@
-FROM gcr.io/tekton-releases/cmd/nop:v0.19.0
+FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/nop:v0.19.0
